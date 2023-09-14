@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\lolim\Desktop\ConsoleApplication2\ConsoleApplication2.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lolim\Desktop\ConsoleApplication2\ConsoleApplication2.cpp(280): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  ConsoleApplication2.vcxproj -> C:\Users\lolim\Desktop\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
